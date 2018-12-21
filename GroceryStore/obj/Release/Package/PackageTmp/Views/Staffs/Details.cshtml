@@ -1,0 +1,66 @@
+﻿@model GroceryStore.Models.Staff
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Staff</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.staffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.position)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.position)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sex)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sex)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.staffCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffCity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.staffRegion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffRegion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.staffCountry)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffCountry)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.staffID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

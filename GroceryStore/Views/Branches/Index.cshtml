@@ -1,0 +1,51 @@
+﻿@model IEnumerable<GroceryStore.Models.Branch>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.brnachName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.branchCity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.branchRegion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.branchCountry)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.brnachName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.branchCity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.branchRegion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.branchCountry)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BranchId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BranchId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BranchId })
+        </td>
+    </tr>
+}
+
+</table>

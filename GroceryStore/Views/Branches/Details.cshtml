@@ -1,0 +1,50 @@
+﻿@model GroceryStore.Models.Branch
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Branch</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.brnachName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.brnachName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branchCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branchCity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branchRegion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branchRegion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branchCountry)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branchCountry)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BranchId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

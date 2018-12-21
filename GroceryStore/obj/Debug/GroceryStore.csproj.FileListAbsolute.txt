@@ -1,0 +1,402 @@
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojAssemblyReference.cache
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\ApplicationInsights.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.dll.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.pdb
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.exe
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.exe.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.rsp
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.exe
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.exe.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.rsp
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.AppContext.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Console.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.exe
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.exe.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.rsp
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Antlr3.Runtime.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Newtonsoft.Json.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Owin.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Helpers.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Mvc.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Optimization.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Razor.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\WebGrease.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Helpers.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Mvc.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Optimization.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Razor.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Newtonsoft.Json.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Antlr3.Runtime.pdb
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CopyComplete
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.dll
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.InitialCreate.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.GenerateResource.cache
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.initial.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_two.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_three.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.InitialCreate.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField.resources
+C:\Users\x16101294\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField1.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\ApplicationInsights.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\GroceryStore.dll.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\GroceryStore.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\GroceryStore.pdb
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csc.exe
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csc.exe.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csc.rsp
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csi.exe
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csi.exe.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\csi.rsp
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Managed.Core.targets
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.AppContext.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Collections.Immutable.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Console.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.IO.Compression.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Reflection.Metadata.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.AccessControl.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Claims.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Security.Principal.Windows.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.ValueTuple.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\vbc.exe
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\vbc.exe.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\vbc.rsp
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe.config
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Antlr3.Runtime.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\EntityFramework.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.Agent.Intercept.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.ApplicationInsights.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Web.Infrastructure.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Newtonsoft.Json.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Owin.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Helpers.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Http.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Mvc.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Optimization.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Razor.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\WebGrease.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Helpers.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Mvc.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Optimization.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Razor.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Newtonsoft.Json.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Antlr3.Runtime.pdb
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Http.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\EntityFramework.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojAssemblyReference.cache
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.InitialCreate.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.initial.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_two.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_three.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.InitialCreate.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField1.resources
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.GenerateResource.cache
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CopyComplete
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.dll
+H:\3rd Year\Advanced Internet Technologies\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\ApplicationInsights.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.dll.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\GroceryStore.pdb
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.exe
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.exe.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csc.rsp
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.exe
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.exe.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\csi.rsp
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.AppContext.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Console.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.exe
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.exe.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\vbc.rsp
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Antlr3.Runtime.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Newtonsoft.Json.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Owin.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Helpers.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Mvc.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Optimization.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Razor.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\WebGrease.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Helpers.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Mvc.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Optimization.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Razor.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Newtonsoft.Json.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Antlr3.Runtime.pdb
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Net.Http.Formatting.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Web.Http.WebHost.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\EntityFramework.SqlServer.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.AI.Web.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojAssemblyReference.cache
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.InitialCreate.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.initial.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_two.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.mig_three.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.InitialCreate.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Migrations.ApplicationDbContext.AddAttributesField1.resources
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.GenerateResource.cache
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CopyComplete
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.dll
+C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb

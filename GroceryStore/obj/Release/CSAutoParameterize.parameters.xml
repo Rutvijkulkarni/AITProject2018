@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GroceryModelContext-Web.config Connection String" description="GroceryModelContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-GroceryStore-20181220023543.mdf;Initial Catalog=aspnet-GroceryStore-20181220023543;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\x16101294\.NCIR-CAMPUS\.000\\Desktop\\GroceryStore\\GroceryStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GroceryModelContext']/@connectionString" />
+  </parameter>
+</parameters>

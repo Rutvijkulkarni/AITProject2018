@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\x16101294.NCIR-CAMPUS.000\Desktop\GroceryStore\GroceryStore\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

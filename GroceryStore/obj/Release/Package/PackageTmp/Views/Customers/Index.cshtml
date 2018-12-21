@@ -1,0 +1,57 @@
+﻿@model IEnumerable<GroceryStore.Models.Customers>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.customerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.customerNO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.customerCity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.customerRegion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.customerCountry)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.customerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.customerNO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.customerCity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.customerRegion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.customerCountry)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CustomersId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CustomersId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CustomersId })
+        </td>
+    </tr>
+}
+
+</table>
